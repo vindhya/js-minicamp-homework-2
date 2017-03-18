@@ -7,9 +7,15 @@
 	* for loop
 		* A `for` loop runs its contained lines of code a set amount of times based on a variable which is incremented in the condition of the loop.
 	* && || !
+		* The `&&` symbol compares the Boolean statements to its left and right and if BOTH evaluate to `true`, then it also evaluates to `true`.
+		* The `||` symbol compares the statements to its left and right and if either are true, then it evaluates to `true`.
+		* The `!` symbol takes Boolean statement it precedes and reverses the value. So, if the statement looked like `!true`, it would mean `false`, and vice versa.
 	* Array
+		* An array is a list of values that also have a number or "index" assgned to each value in the list. The value can be called upon by referencing its index.
 	* git
+		* Git is a tool which allows the tracking of changes made to source code. You can roll back to previous code if something goes wrong. It also allows easier collaboration within teams working on the same code.
 	* GitHub
+		* GitHub is an online repository for code which works with git.
 
 
 2. Install git.  https://git-scm.com/downloads
